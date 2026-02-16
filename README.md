@@ -1,4 +1,4 @@
-🎬  # Netflix Clone – MERN Stack
+🎬  #Netflix Clone – MERN Stack#
 
 A full-stack Netflix Clone built using the MERN Stack (MongoDB, Express, React, Node.js) with authentication, protected routes, and My List functionality.
 
