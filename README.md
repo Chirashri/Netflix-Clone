@@ -1,4 +1,4 @@
-🎬  <h1>Netflix Clone – MERN Stack</h1>
+<h1>🎬  Netflix Clone – MERN Stack</h1>
 
 A full-stack Netflix Clone built using the MERN Stack (MongoDB, Express, React, Node.js) with authentication, protected routes, and My List functionality.
 
@@ -6,7 +6,8 @@ A full-stack Netflix Clone built using the MERN Stack (MongoDB, Express, React, 
 
 🔗 GitHub Repo: (https://github.com/Chirashri/Netflix-Clone)
 
-🚀 Features
+<h2>🚀 Features</h2>
+
 🔐 Authentication
 
 User Registration
@@ -19,7 +20,8 @@ Protected Routes
 
 Persistent Login (Token stored in localStorage)
 
-🎥 Movies
+
+<h3>🎥 Movies</h3>
 
 Trending Movies
 
@@ -31,7 +33,7 @@ Trailer Playback (YouTube integration)
 
 Movie Details Modal
 
-❤️ My List
+<h3>❤️ My List</h3>
 
 Add movies to My List
 
@@ -41,7 +43,7 @@ My List stored in MongoDB
 
 Protected API routes
 
-🎨 UI
+<h3>🎨 UI</h3>
 
 Netflix-style Login Page
 
@@ -53,8 +55,9 @@ Modal Trailer Player
 
 Responsive Layout
 
-🛠 Tech Stack
-Frontend:
+<h2>🛠 Tech Stack</h2>
+
+<h3>Frontend:</h3>
 
 React.js
 
@@ -67,7 +70,7 @@ CSS
 TMDB API
 
 
-Backend:
+<h3>Backend:</h3>
 
 Node.js
 
@@ -83,7 +86,7 @@ bcryptjs
 
 dotenv
 
-Deployment
+<h2>Deployment</h2>
 
 Backend: Render
 
@@ -91,7 +94,8 @@ Database: MongoDB Atlas
 
 Version Control: Git & GitHub
 
-📂 Project Structure
+<h2>📂 Project Structure</h2>
+
 netflix-clone/
 │
 ├── server/
@@ -110,7 +114,7 @@ netflix-clone/
 │
 └── README.md
 
-⚙️ Environment Variables
+<h2>⚙️ Environment Variables</h2>
 
 Create a .env file inside /server:
 
@@ -123,7 +127,7 @@ PORT=5000
 git clone (https://github.com/Chirashri/Netflix-Clone.git)
 cd Netflix-Clone
 
-2️⃣ Install Dependencies
+<h2>2️⃣ Install Dependencies</h2>
 
 Frontend:
 
@@ -151,7 +155,7 @@ Frontend:
 Backend deployed on Render
 Database hosted on MongoDB Atlas
 
-📌 Future Improvements
+<h2>📌 Future Improvements</h2>
 
 Forgot Password system
 
@@ -167,12 +171,13 @@ Watch History
 
 Production-ready UI polish
 
-👩‍💻 Author
+<h2>👩‍💻 Author</h2>
 
-Chirashri
-MERN Stack Developer 🚀
+<h3>Chirashri
+MERN Stack Developer 🚀</h3>
 
 to check/login the website
+
 email : test@gmail.com
 password : 123456
 
