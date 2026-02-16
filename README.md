@@ -2,7 +2,7 @@
 
 A full-stack Netflix Clone built using the MERN Stack (MongoDB, Express, React, Node.js) with authentication, protected routes, and My List functionality.
 
-🔗 Live Backend: (https://netflix-clone-3jd2.onrender.com)
+🔗 Live Demo: ([https://netflix-clone-3jd2.onrender.com](https://netflix-clone-1-byan.onrender.com))
 
 🔗 GitHub Repo: (https://github.com/Chirashri/Netflix-Clone)
 
