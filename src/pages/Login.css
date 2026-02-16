@@ -1,0 +1,38 @@
+.login {
+  height: 100vh;
+  background: url("https://assets.nflxext.com/ffe/siteui/vlv3/4f8b6f78-3d88-4f29-92b1-b5e0f8d0a6b2/88c4a8c2-3d74-49d7-a5e2-2e07e13e4d3a/IN-en-20230731-popsignuptwoweeks-perspective_alpha_website_medium.jpg")
+    no-repeat center center/cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login_box {
+  background-color: rgba(0, 0, 0, 0.75);
+  padding: 60px;
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  border-radius: 4px;
+}
+
+.login_box h1 {
+  color: white;
+}
+
+.login_box input {
+  padding: 12px;
+  background: #333;
+  border: none;
+  color: white;
+}
+
+.login_box button {
+  padding: 12px;
+  background: #e50914;
+  border: none;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
